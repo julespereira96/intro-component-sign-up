@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "ACMA,AAAA,CAAC,AAAC,CACA,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACX,AAED,AAAA,CAAC,CACD,CAAC,AAAA,QAAQ,CACT,CAAC,AAAA,OAAO,AAAC,CACP,UAAU,CAAE,OAAO,CACpB,AAED,AAAA,IAAI,AAAC,CACH,UAAU,CAAE,UAAU,CACtB,SAAS,CAAE,KAAK,CACjB,AAED,AAAA,IAAI,AAAC,CACH,WAAW,CAAE,qBAAqB,CAClC,gBAAgB,CAxBE,OAAiB,CAyBnC,gBAAgB,CAAE,mCAAmC,CACtD",
+    "sources": [
+        "../../intro-component-with-signup-form-master/Sass/main.scss",
+        "../../intro-component-with-signup-form-master/Sass/_base.scss",
+        "../../intro-component-with-signup-form-master/Sass/_components.scss",
+        "../../intro-component-with-signup-form-master/Sass/_layouts.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}

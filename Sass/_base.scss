@@ -1,0 +1,33 @@
+$primary-color-red: hsl(0, 100%, 74%);
+$shadow-color-red: hsl(0, 56%, 61%);
+$primary-color-green: hsl(154, 59%, 51%);
+$primary-color-dark-green: #289672;
+$primary-color-purple: hsl(248, 32%, 49%);
+$primary-color-black: hsl(249, 10%, 26%);
+$primary-color-grayish-blue: hsl(246, 25%, 77%);
+$heading-color: white;
+
+$bp-largest: 53.75em; //960px
+$bp-small: 22.5em; //960px
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%; // 1rem=10px,10px/16px=62.5%
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: $primary-color-red;
+  background-image: url(/images/bg-intro-desktop.png);
+}
